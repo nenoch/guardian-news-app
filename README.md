@@ -1,6 +1,6 @@
 # Guardian News App
 
-An APIs Javascript playground...
+Work in Progress : Javascript playground for APIs...
 
 ## User Stories
 

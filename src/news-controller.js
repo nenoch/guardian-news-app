@@ -8,7 +8,7 @@
   }
 
   NewsController.prototype.printHeadlines = function(){
-    document.getElementById('headlines').innerHTML = this.headlines.displayHeadlines();
+      document.getElementById('headlines').innerHTML = this.headlines.displayHeadlines();
   }
 
   // NoteController.prototype.makeURLShowSingleNoteForCurrentPage = function() {
